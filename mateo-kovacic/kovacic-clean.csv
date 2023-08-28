@@ -1,0 +1,19 @@
+﻿match,competition,date,position,minutes_played,total_actions,total_actions_successful,TAS_percent,goals,assists,shots,shots_on_target,SOT_percent,xG,passes,passes_accurate,PA_percent,long_passes,long_passes_accurate,LPA_percent,crosses,crosses_accurate,CA_percent,dribbles,dribbles_successful,DS_percent,duels,duels_won,DW_percent,aerial_duels,aerial_duels_won,ADW_percent,interceptions,losses,losses_own_half,LOH_percent,recoveries,recoveries_opp_half,ROPH_percent
+Chelsea - Real Madrid 0:2,Europe. UEFA Champions League,4/18/23,LCMF,95,98,88,90,0,0,0,0,0,0,84,80,95,3,2,67,0,0,0,0,0,0,12,8,67,0,0,0,1,3,1,33,3,2,67
+Real Madrid - Chelsea 2:0,Europe. UEFA Champions League,4/12/23,"LCMF, LCMF3",95,95,68,72,0,0,0,0,0,0,68,62,91,3,2,67,0,0,0,1,0,0,12,5,42,0,0,0,2,9,4,44,5,2,40
+Chelsea - Borussia Dortmund 2:0,Europe. UEFA Champions League,3/7/23,"LCMF, LCMF3",85,76,39,51,0,0,1,0,0,0.13,33,25,76,1,0,0,1,1,100,6,4,67,30,11,37,6,0,0,5,13,5,38,4,1,25
+Salzburg - Chelsea 1:2,Europe. UEFA Champions League,10/25/22,LCMF,68,61,47,77,1,0,1,1,100,0.13,41,36,88,1,1,100,0,0,0,5,4,80,13,9,69,0,0,0,5,6,1,17,6,5,83
+Milan - Chelsea 0:2,Europe. UEFA Champions League,10/11/22,"LCMF3, RCMF",99,98,84,86,0,0,1,1,100,0.05,82,77,94,4,4,100,0,0,0,2,1,50,13,6,46,2,2,100,1,4,1,25,4,2,50
+Chelsea - Milan 3:0,Europe. UEFA Champions League,10/5/22,LCMF,70,60,45,75,0,0,0,0,0,0,45,38,84,3,2,67,0,0,0,0,0,0,8,5,63,0,0,0,4,8,1,13,6,3,50
+Chelsea - Salzburg 1:1,Europe. UEFA Champions League,9/14/22,LDMF,84,65,40,62,0,0,1,0,0,0.09,35,28,80,1,1,100,0,0,0,5,2,40,25,11,44,2,1,50,1,13,6,46,5,4,80
+Dinamo Zagreb - Chelsea 1:0,Europe. UEFA Champions League,9/6/22,LCMF,59,115,95,83,0,0,0,0,0,0,90,83,92,9,5,56,0,0,0,3,3,100,20,11,55,0,0,0,3,6,2,33,7,3,43
+Real Madrid - Chelsea 2:3 (E),Europe. UEFA Champions League,4/12/22,LCMF,110,131,104,79,0,0,1,0,0,0.03,95,90,95,5,3,60,0,0,0,7,5,71,21,11,52,1,1,100,2,7,3,43,7,4,57
+Chelsea - Real Madrid 1:3,Europe. UEFA Champions League,4/6/22,LDMF,51,70,56,80,0,0,0,0,0,0,52,48,92,1,0,0,0,0,0,0,0,0,8,4,50,0,0,0,2,3,0,0,1,1,100
+Lille - Chelsea 1:2,Europe. UEFA Champions League,3/16/22,LCMF3,48,37,24,65,0,0,0,0,0,0,20,17,85,2,1,50,0,0,0,3,3,100,9,5,56,0,0,0,2,4,1,25,2,0,0
+Chelsea - Lille 2:0,Europe. UEFA Champions League,2/22/22,LCMF,51,49,35,71,0,0,0,0,0,0,26,25,96,0,0,0,0,0,0,2,1,50,16,9,56,0,0,0,2,1,0,0,6,2,33
+Juventus - Chelsea 1:0,Europe. UEFA Champions League,9/29/21,"DMF, LCMF, LCMF3",96,174,148,85,0,0,2,0,0,0.11,137,127,93,0,0,0,2,0,0,4,3,75,16,13,81,0,0,0,3,8,2,25,9,6,67
+Chelsea - Zenit 1:0,Europe. UEFA Champions League,9/14/21,LCMF,95,129,110,85,0,0,1,0,0,0,104,101,97,3,3,100,0,0,0,4,3,75,14,8,57,0,0,0,3,4,1,25,5,2,40
+Manchester City - Chelsea 0:1,Europe. UEFA Champions League,5/29/21,LW,18,13,9,69,0,0,0,0,0,0,3,3,100,0,0,0,0,0,0,0,0,0,6,4,67,2,1,50,0,3,2,67,1,1,100
+Porto - Chelsea 0:2,Europe. UEFA Champions League,4/7/21,"LCMF, LCMF3",92,95,71,75,0,0,0,0,0,0,70,62,89,7,3,43,0,0,0,4,3,75,18,7,39,2,0,0,1,11,5,45,6,1,17
+Chelsea - Atlético Madrid 2:0,Europe. UEFA Champions League,3/17/21,LCMF,95,102,74,73,0,0,1,0,0,0.06,67,60,90,3,2,67,0,0,0,4,2,50,22,12,55,3,2,67,6,9,3,33,8,4,50
+Atlético Madrid - Chelsea 0:1,Europe. UEFA Champions League,2/23/21,LCMF,75,104,87,84,0,0,0,0,0,0,86,80,93,0,0,0,0,0,0,3,2,67,14,7,50,0,0,0,1,9,5,56,3,0,0

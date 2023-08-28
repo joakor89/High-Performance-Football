@@ -1,0 +1,8 @@
+pip
+bokeh==3.2.0
+imbalanced-learn
+statsmodels
+pip
+xgboost==1.7.6
+pip
+nonconformist==2.1.0

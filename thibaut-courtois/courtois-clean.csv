@@ -1,0 +1,30 @@
+﻿match,competition,date,position,minutes_played,conceded_goals,xCG,shots_against,saves,saves_with_reflexes,SWR_percent,exits,long_passes,long_passes_accurate,LPA_percent,short_passes,short_passes_accurate,SPA_percent,goal_kicks,short_goal_kicks,SGK_percent,long_goal_kicks,LGK_percent
+Manchester City - Real Madrid 4:0,Europe. UEFA Champions League,5/17/23,GK,94,4,3.88,9,5,3,60,3,14,7,50,18,18,100,6,4,67,2,33
+Real Madrid - Manchester City 1:1,Europe. UEFA Champions League,5/9/23,GK,96,1,0.72,6,5,2,40,1,12,6,50,14,14,100,6,2,33,4,67
+Chelsea - Real Madrid 0:2,Europe. UEFA Champions League,4/18/23,GK,95,0,1.03,6,6,4,67,1,3,2,67,19,19,100,4,0,0,4,100
+Real Madrid - Chelsea 2:0,Europe. UEFA Champions League,4/12/23,GK,95,0,0.97,3,3,3,100,0,4,4,100,10,10,100,4,3,75,1,25
+Real Madrid - Liverpool 1:0,Europe. UEFA Champions League,3/15/23,GK,96,0,0.74,5,5,4,80,2,14,3,21,19,19,100,4,2,50,2,50
+Liverpool - Real Madrid 2:5,Europe. UEFA Champions League,2/21/23,GK,96,2,1.56,4,2,1,50,0,14,7,50,11,11,100,9,4,44,5,56
+Real Madrid - Celtic 5:1,Europe. UEFA Champions League,11/2/22,GK,91,1,1.44,8,7,3,43,2,5,2,40,31,30,97,2,2,100,0,0
+RB Leipzig - Real Madrid 3:2,Europe. UEFA Champions League,10/25/22,GK,94,3,2.91,6,3,2,67,0,2,2,100,15,15,100,8,3,38,5,63
+Real Madrid - RB Leipzig 2:0,Europe. UEFA Champions League,9/14/22,GK,94,0,0.69,3,3,3,100,2,3,1,33,21,21,100,8,5,63,3,38
+Celtic - Real Madrid 0:3,Europe. UEFA Champions League,9/6/22,GK,93,0,1,4,4,3,75,3,9,6,67,33,32,97,6,4,67,2,33
+Liverpool - Real Madrid 0:1,Europe. UEFA Champions League,5/28/22,GK,100,0,2.59,9,9,7,78,3,13,7,54,15,15,100,10,2,20,8,80
+Real Madrid - Manchester City 3:1 (E),Europe. UEFA Champions League,5/4/22,GK,134,1,3.15,10,9,5,56,1,20,13,65,27,27,100,7,2,29,5,71
+Manchester City - Real Madrid 4:3,Europe. UEFA Champions League,4/26/22,GK,95,4,2.85,6,2,2,100,2,12,5,42,20,19,95,6,1,17,5,83
+Real Madrid - Chelsea 2:3 (E),Europe. UEFA Champions League,4/12/22,GK,128,3,2.33,7,4,2,50,1,14,8,57,22,21,95,11,3,27,8,73
+Chelsea - Real Madrid 1:3,Europe. UEFA Champions League,4/6/22,GK,97,1,1.43,5,4,0,0,2,8,4,50,28,28,100,8,0,0,8,100
+Real Madrid - PSG 3:1,Europe. UEFA Champions League,3/9/22,GK,96,1,1.87,5,4,4,100,0,2,1,50,5,5,100,3,1,33,2,67
+PSG - Real Madrid 1:0,Europe. UEFA Champions League,2/15/22,GK,95,1,2.03,10,9,4,44,0,8,4,50,17,17,100,0,0,0,0,0
+Real Madrid - Internazionale 2:0,Europe. UEFA Champions League,12/7/21,GK,91,0,0.78,3,3,2,67,2,6,2,33,11,11,100,4,1,25,3,75
+Sheriff - Real Madrid 0:3,Europe. UEFA Champions League,11/24/21,GK,96,0,0.48,5,5,1,20,3,1,1,100,20,20,100,3,1,33,2,67
+Real Madrid - Shakhtar Donetsk 2:1,Europe. UEFA Champions League,11/3/21,GK,94,1,1.35,5,4,1,25,0,7,4,57,31,31,100,3,2,67,1,33
+Shakhtar Donetsk - Real Madrid 0:5,Europe. UEFA Champions League,10/19/21,GK,93,0,0.67,4,4,4,100,0,9,5,56,22,21,95,2,2,100,0,0
+Real Madrid - Sheriff 1:2,Europe. UEFA Champions League,9/28/21,GK,97,2,1.28,3,1,0,0,0,0,0,0,30,29,97,2,1,50,1,50
+Internazionale - Real Madrid 0:1,Europe. UEFA Champions League,9/15/21,GK,94,0,1.45,5,5,5,100,2,4,2,50,25,25,100,5,3,60,2,40
+Chelsea - Real Madrid 2:0,Europe. UEFA Champions League,5/5/21,GK,95,2,2.87,5,3,2,67,1,6,3,50,36,35,97,7,6,86,1,14
+Real Madrid - Chelsea 1:1,Europe. UEFA Champions League,4/27/21,GK,94,1,1.37,4,3,1,33,3,3,1,33,26,26,100,9,8,89,1,11
+Liverpool - Real Madrid 0:0,Europe. UEFA Champions League,4/14/21,GK,96,0,0.6,3,3,2,67,2,16,9,56,9,9,100,16,3,19,13,81
+Real Madrid - Liverpool 3:1,Europe. UEFA Champions League,4/6/21,GK,95,1,0.69,1,0,0,0,3,9,3,33,20,20,100,6,3,50,3,50
+Real Madrid - Atalanta 3:1,Europe. UEFA Champions League,3/16/21,GK,95,1,1.36,5,4,2,50,1,17,12,71,19,19,100,9,3,33,6,67
+Atalanta - Real Madrid 0:1,Europe. UEFA Champions League,2/24/21,GK,96,0,0,0,0,0,0,2,4,2,50,13,13,100,2,1,50,1,50

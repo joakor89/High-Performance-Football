@@ -1,0 +1,24 @@
+﻿match,competition,date,position,minutes_played,total_actions,total_actions_successful,TAS_percent,goals,assists,shots,shots_on_target,SOT_percent,xG,passes,passes_accurate,PA_percent,long_passes,long_passes_accurate,LPA_percent,crosses,crosses_accurate,CA_percent,dribbles,dribbles_successful,DS_percent,duels,duels_won,DW_percent,aerial_duels,aerial_duels_won,ADW_percent,interceptions,losses,losses_own_half,LOH_percent,recoveries,recoveries_opp_half,ROPH_percent
+Real Madrid - Manchester City 1:1,Europe. UEFA Champions League,5/9/23,0,7,11,10,91,0,0,1,0,0,0.02,9,9,100,0,0,0,0,0,0,1,1,100,1,1,100,0,0,0,0,0,0,0,0,0,0
+Chelsea - Real Madrid 0:2,Europe. UEFA Champions League,4/18/23,RB,12,9,9,100,0,0,0,0,0,0,7,7,100,0,0,0,0,0,0,0,0,0,2,2,100,0,0,0,1,0,0,0,3,0,0
+Real Madrid - Liverpool 1:0,Europe. UEFA Champions League,3/15/23,LB,96,78,53,68,0,0,0,0,0,0,49,42,86,2,1,50,1,0,0,4,3,75,21,10,48,1,0,0,5,10,6,60,6,1,17
+Liverpool - Real Madrid 2:5,Europe. UEFA Champions League,2/21/23,LB,69,67,41,61,0,0,0,0,0,0,34,29,85,2,2,100,0,0,0,1,1,100,18,9,50,1,1,100,6,9,5,56,10,1,10
+Real Madrid - Celtic 5:1,Europe. UEFA Champions League,11/2/22,LCB,24,16,14,88,0,0,0,0,0,0,15,13,87,1,1,100,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,100,0,0,0
+RB Leipzig - Real Madrid 3:2,Europe. UEFA Champions League,10/25/22,"LB, LCB",68,50,40,80,0,0,0,0,0,0,38,36,95,1,1,100,0,0,0,1,0,0,5,2,40,0,0,0,7,6,3,50,4,1,25
+Shakhtar Donetsk - Real Madrid 1:1,Europe. UEFA Champions League,10/11/22,LCB,101,77,55,71,0,0,0,0,0,0,47,44,94,0,0,0,0,0,0,0,0,0,18,11,61,6,4,67,14,5,2,40,19,5,26
+Real Madrid - RB Leipzig 2:0,Europe. UEFA Champions League,9/14/22,LCB,94,94,82,87,0,0,0,0,0,0,80,76,95,2,1,50,0,0,0,0,0,0,10,6,60,1,1,100,5,4,3,75,11,0,0
+Real Madrid - Manchester City 3:1 (E),Europe. UEFA Champions League,5/4/22,"CB, LCB",134,81,67,83,0,0,0,0,0,0,64,60,94,5,3,60,0,0,0,0,0,0,11,6,55,2,1,50,3,5,4,80,14,1,7
+Manchester City - Real Madrid 4:3,Europe. UEFA Champions League,4/26/22,LCB,49,27,21,78,0,0,0,0,0,0,22,20,91,0,0,0,0,0,0,0,0,0,3,1,33,1,0,0,0,3,3,100,0,0,0
+Real Madrid - Chelsea 2:3 (E),Europe. UEFA Champions League,4/12/22,RCB,88,44,37,84,0,0,0,0,0,0,31,30,97,1,1,100,0,0,0,2,2,100,7,6,86,1,0,0,7,3,3,100,8,0,0
+Chelsea - Real Madrid 1:3,Europe. UEFA Champions League,4/6/22,RCB,32,17,9,53,0,0,0,0,0,0,9,5,56,2,0,0,0,0,0,0,0,0,3,1,33,2,0,0,2,4,1,25,0,0,0
+Real Madrid - PSG 3:1,Europe. UEFA Champions League,3/9/22,"LB, LCB",96,55,41,75,0,0,0,0,0,0,38,35,92,3,2,67,1,0,0,0,0,0,12,6,50,1,0,0,2,3,1,33,6,4,67
+Sheriff - Real Madrid 0:3,Europe. UEFA Champions League,11/24/21,LCB,30,26,25,96,0,0,0,0,0,0,22,22,100,0,0,0,0,0,0,0,0,0,1,1,100,0,0,0,2,0,0,0,3,1,33
+Real Madrid - Shakhtar Donetsk 2:1,Europe. UEFA Champions League,11/3/21,RB,28,26,17,65,0,0,0,0,0,0,15,12,80,1,0,0,1,0,0,1,1,100,8,5,63,0,0,0,2,2,1,50,4,0,0
+Real Madrid - Sheriff 1:2,Europe. UEFA Champions League,9/28/21,RB,65,59,42,71,0,0,1,0,0,0.41,41,34,83,2,1,50,4,0,0,2,1,50,13,7,54,3,1,33,1,7,1,14,5,1,20
+Internazionale - Real Madrid 0:1,Europe. UEFA Champions League,9/15/21,LB,94,86,70,81,0,0,0,0,0,0,60,57,95,1,1,100,0,0,0,2,2,100,12,8,67,2,1,50,5,7,4,57,10,3,30
+Chelsea - Real Madrid 2:0,Europe. UEFA Champions League,5/5/21,LCB3,95,104,79,76,0,0,0,0,0,0,78,71,91,4,1,25,2,1,50,1,0,0,17,8,47,0,0,0,3,8,6,75,7,0,0
+Real Madrid - Chelsea 1:1,Europe. UEFA Champions League,4/27/21,LCB3,94,95,73,77,0,0,0,0,0,0,67,56,84,4,2,50,0,0,0,1,1,100,19,11,58,6,3,50,1,9,3,33,7,2,29
+Liverpool - Real Madrid 0:0,Europe. UEFA Champions League,4/14/21,LCB,96,63,46,73,0,0,0,0,0,0,31,29,94,2,2,100,0,0,0,0,0,0,24,15,63,10,5,50,9,6,4,67,9,1,11
+Real Madrid - Liverpool 3:1,Europe. UEFA Champions League,4/6/21,LCB,95,53,41,77,0,0,0,0,0,0,36,31,86,4,3,75,0,0,0,1,1,100,9,9,100,1,1,100,5,5,3,60,8,2,25
+Real Madrid - Atalanta 3:1,Europe. UEFA Champions League,3/16/21,LCB3,95,72,43,60,0,0,0,0,0,0,29,26,90,2,0,0,0,0,0,2,1,50,29,16,55,4,2,50,10,8,4,50,6,0,0
+Atalanta - Real Madrid 0:1,Europe. UEFA Champions League,2/24/21,LCB,96,103,88,85,0,0,1,0,0,0.03,82,77,94,3,1,33,0,0,0,2,2,100,15,9,60,2,1,50,3,7,2,29,6,2,33

@@ -1,0 +1,17 @@
+﻿match,competition,date,position,minutes_played,total_actions,total_actions_successful,TAS_percent,goals,assists,shots,shots_on_target,SOT_percent,xG,passes,passes_accurate,PA_percent,long_passes,long_passes_accurate,LPA_percent,crosses_accurate,crosses_accurate,CA_percent,dribbles,dribbles_successful,DS_percent,duels,duels_won,DW_percent,aerial_duels,aerial_duels_won,ADW_percent,interceptions,losses,losses_own_half,LOH_percent,recoveries,recoveries_opp_half,ROPH_percent
+Bayern München - PSG 2:0,Europe. UEFA Champions League,3/8/23,DMF,97,150,119,79,0,0,0,0,0,0,102,93,91,6,3,50,0,0,0,3,3,100,38,21,55,0,0,0,3,11,4,36,7,0,0
+PSG - Bayern München 0:1,Europe. UEFA Champions League,2/14/23,"DMF, RCMF, RCMF3",95,101,66,65,0,0,0,0,0,0,57,47,82,3,1,33,0,0,0,4,2,50,28,13,46,1,0,0,4,12,6,50,9,5,56
+Juventus - PSG 1:2,Europe. UEFA Champions League,11/2/22,DMF,90,133,114,86,0,0,0,0,0,0,95,92,97,4,3,75,0,0,0,3,2,67,19,12,63,0,0,0,4,6,3,50,10,4,40
+PSG - Benfica 1:1,Europe. UEFA Champions League,10/11/22,LCMF,97,141,122,87,0,0,0,0,0,0,109,105,96,7,6,86,1,0,0,0,0,0,23,14,61,2,1,50,7,9,5,56,16,5,31
+Benfica - PSG 1:1,Europe. UEFA Champions League,10/5/22,DMF,97,134,111,83,0,0,0,0,0,0,97,91,94,5,2,40,0,0,0,4,3,75,29,17,59,3,2,67,3,10,4,40,14,5,36
+Maccabi Haifa - PSG 1:3,Europe. UEFA Champions League,9/14/22,LCMF,99,102,82,80,0,1,0,0,0,0,75,71,95,1,1,100,1,0,0,4,1,25,18,8,44,1,1,100,5,6,4,67,12,5,42
+PSG - Juventus 2:1,Europe. UEFA Champions League,9/6/22,RCMF,90,149,127,85,0,0,2,0,0,0.04,104,101,97,4,2,50,0,0,0,2,2,100,26,20,77,0,0,0,4,6,3,50,10,5,50
+Real Madrid - PSG 3:1,Europe. UEFA Champions League,3/9/22,"DMF, LCMF3",96,124,103,83,0,0,0,0,0,0,99,93,94,4,3,75,1,1,100,0,0,0,20,9,45,0,0,0,4,10,5,50,6,1,17
+PSG - Real Madrid 1:0,Europe. UEFA Champions League,2/15/22,LCMF3,95,147,114,78,0,0,0,0,0,0,98,93,95,0,0,0,0,0,0,4,2,50,32,18,56,0,0,0,5,9,3,33,11,9,82
+PSG - Club Brugge 4:1,Europe. UEFA Champions League,12/7/21,"DMF, LW",83,119,94,79,0,0,0,0,0,0,86,79,92,3,2,67,1,0,0,3,2,67,24,13,54,0,0,0,6,10,4,40,4,2,50
+PSG - RB Leipzig 3:2,Europe. UEFA Champions League,10/19/21,DMF,98,145,105,72,0,0,0,0,0,0,94,85,90,3,2,67,0,0,0,6,2,33,31,13,42,2,0,0,10,20,12,60,11,3,27
+PSG - Manchester City 2:0,Europe. UEFA Champions League,9/28/21,DMF,81,74,49,66,0,0,0,0,0,0,43,41,95,3,3,100,0,0,0,5,2,40,19,6,32,0,0,0,4,2,2,100,4,1,25
+Manchester City - PSG 2:0,Europe. UEFA Champions League,5/4/21,LCMF3,95,138,95,69,0,0,0,0,0,0,84,78,93,1,1,100,0,0,0,7,4,57,36,15,42,3,0,0,5,8,2,25,6,4,67
+PSG - Manchester City 1:2,Europe. UEFA Champions League,4/28/21,"LW, RCMF3",95,66,45,68,0,0,0,0,0,0,33,33,100,1,1,100,0,0,0,2,2,100,20,10,50,2,0,0,3,9,5,56,4,2,50
+PSG - Barcelona 1:1,Europe. UEFA Champions League,3/10/21,LCMF,88,90,53,59,0,0,0,0,0,0,42,36,86,2,1,50,1,0,0,0,0,0,28,13,46,0,0,0,2,10,4,40,5,1,20
+Barcelona - PSG 1:4,Europe. UEFA Champions League,2/16/21,LCMF3,74,96,70,73,0,1,1,0,0,0.06,59,55,93,4,3,75,0,0,0,3,2,67,25,14,56,1,1,100,1,7,2,29,9,5,56

@@ -1,0 +1,30 @@
+﻿match,competition,date,position,minutes_played,total_actions,total_actions_successful,TAS_percent,goals,assists,shots,shots_on_target,SOT_percent,xG,passes_accurate,passes_accurate,PA_percent,long_passes,long_passes_accurate,LPA_percent,crosses,crosses_accurate,CA_percent,dribbles,dribbles_successful,DS_percent,duels,duels_won,DW_percent,aerial_duels,aerial_duels_won,ADW_percent,interceptions,losses,losses_own_half,LOH_percent,recoveries,recoveries_opp_half,ROPH_percent
+Manchester City - Real Madrid 4:0,Europe. UEFA Champions League,2023-05-17,AMF,64,56,34,61,0,0,0,0,0,0,33,27,82,1,1,100,0,0,0,1,0,0,12,4,33,2,1,50,1,7,2,29,2,0,0
+Real Madrid - Manchester City 1:1,Europe. UEFA Champions League,2023-05-09,LCMF3,89,67,47,70,0,0,0,0,0,0,45,41,91,4,2,50,2,1,50,3,2,67,9,3,33,0,0,0,6,8,2,25,9,4,44
+Chelsea - Real Madrid 0:2,Europe. UEFA Champions League,2023-04-18,"LCMF3, RCMF3",95,80,56,70,0,0,1,1,100,0.05,55,48,87,3,1,33,2,2,100,3,2,67,9,5,56,1,0,0,0,6,4,67,5,2,40
+Real Madrid - Chelsea 2:0,Europe. UEFA Champions League,2023-04-12,LCMF3,81,106,81,76,0,0,1,0,0,0.19,74,70,95,0,0,0,2,1,50,5,3,60,19,8,42,0,0,0,1,4,0,0,2,2,100
+Real Madrid - Liverpool 1:0,Europe. UEFA Champions League,2023-03-15,RCMF3,84,64,52,81,0,0,1,0,0,0.09,49,46,94,2,2,100,2,1,50,2,1,50,7,5,71,0,0,0,1,4,3,75,3,0,0
+Liverpool - Real Madrid 2:5,Europe. UEFA Champions League,2023-02-21,"LCMF3, RCMF3",89,82,61,74,0,1,0,0,0,0,56,49,88,3,2,67,1,0,0,2,2,100,10,10,100,3,3,100,3,6,4,67,6,0,0
+Real Madrid - Celtic 5:1,Europe. UEFA Champions League,2022-11-02,LCMF,67,87,72,83,1,0,1,1,100,0.76,75,67,89,8,5,63,1,1,100,1,0,0,6,3,50,1,1,100,2,7,2,29,4,2,50
+Shakhtar Donetsk - Real Madrid 1:1,Europe. UEFA Champions League,2022-10-11,LCMF,44,40,33,83,0,0,0,0,0,0,35,30,86,3,2,67,3,2,67,2,2,100,5,3,60,0,0,0,0,6,0,0,1,1,100
+Real Madrid - RB Leipzig 2:0,Europe. UEFA Champions League,2022-09-14,"LCMF, RCMF",81,74,52,70,0,0,1,0,0,0.06,49,46,94,4,3,75,0,0,0,3,1,33,13,6,46,1,1,100,5,7,2,29,5,4,80
+Celtic - Real Madrid 0:3,Europe. UEFA Champions League,2022-09-06,RCMF3,81,107,90,84,1,0,2,1,50,0.18,89,84,94,10,8,80,1,0,0,2,1,50,7,4,57,3,2,67,3,8,2,25,9,6,67
+Liverpool - Real Madrid 0:1,Europe. UEFA Champions League,2022-05-28,RCMF3,93,78,54,69,0,0,0,0,0,0,55,48,87,6,4,67,0,0,0,1,0,0,12,5,42,5,2,40,0,11,5,45,4,2,50
+Real Madrid - Manchester City 3:1 (E),Europe. UEFA Champions League,2022-05-04,AMF,77,60,40,67,0,0,1,0,0,0.13,39,35,90,5,4,80,1,1,100,1,1,100,9,4,44,0,0,0,0,5,3,60,2,0,0
+Manchester City - Real Madrid 4:3,Europe. UEFA Champions League,2022-04-26,"AMF, LCMF3",80,51,38,75,0,0,1,0,0,0.03,34,30,88,1,1,100,0,0,0,3,2,67,11,6,55,3,2,67,2,5,3,60,7,5,71
+Real Madrid - Chelsea 2:3 (E),Europe. UEFA Champions League,2022-04-12,"DMF, LCMF, RCMF, RCMF3",128,116,86,74,0,1,1,1,100,0.04,64,56,88,6,3,50,1,0,0,3,2,67,35,21,60,3,0,0,5,7,4,57,11,3,27
+Chelsea - Real Madrid 1:3,Europe. UEFA Champions League,2022-04-06,RCMF3,97,81,54,67,0,1,0,0,0,0,52,43,83,1,0,0,2,1,50,1,0,0,17,7,41,1,0,0,2,12,6,50,6,1,17
+Real Madrid - PSG 3:1,Europe. UEFA Champions League,2022-03-09,LCMF3,96,96,76,79,0,1,2,1,50,0.13,62,57,92,8,7,88,0,0,0,4,4,100,18,12,67,0,0,0,2,6,1,17,8,4,50
+PSG - Real Madrid 1:0,Europe. UEFA Champions League,2022-02-15,RCMF3,82,75,55,73,0,0,0,0,0,0,52,48,92,3,2,67,0,0,0,2,2,100,12,7,58,0,0,0,5,8,6,75,4,0,0
+Real Madrid - Internazionale 2:0,Europe. UEFA Champions League,2021-12-07,"LCMF3, RCMF",91,104,79,76,0,0,1,0,0,0,80,75,94,4,3,75,0,0,0,1,0,0,18,3,17,2,1,50,1,4,1,25,4,2,50
+Sheriff - Real Madrid 0:3,Europe. UEFA Champions League,2021-11-24,RCMF3,96,94,77,82,0,0,0,0,0,0,72,66,92,8,6,75,0,0,0,3,2,67,14,8,57,0,0,0,4,10,2,20,7,6,86
+Real Madrid - Shakhtar Donetsk 2:1,Europe. UEFA Champions League,2021-11-03,RCMF,94,90,72,80,0,0,4,2,50,0.41,67,65,97,5,5,100,0,0,0,0,0,0,5,3,60,0,0,0,2,2,0,0,5,2,40
+Shakhtar Donetsk - Real Madrid 0:5,Europe. UEFA Champions League,2021-10-19,RCMF3,78,86,70,81,0,1,1,0,0,0.01,70,65,93,1,1,100,0,0,0,2,0,0,10,4,40,1,1,100,7,7,3,43,7,3,43
+Real Madrid - Sheriff 1:2,Europe. UEFA Champions League,2021-09-28,RCMF,32,44,36,82,0,0,2,1,50,0.19,37,35,95,0,0,0,1,0,0,0,0,0,5,0,0,1,0,0,1,1,0,0,2,1,50
+Internazionale - Real Madrid 0:1,Europe. UEFA Champions League,2021-09-15,LCMF3,81,89,72,81,0,0,1,0,0,0,70,65,93,2,1,50,0,0,0,3,1,33,8,5,63,1,1,100,3,8,3,38,3,1,33
+Chelsea - Real Madrid 2:0,Europe. UEFA Champions League,2021-05-05,"RCMF, RCMF3",95,112,94,84,0,0,1,1,100,0.07,91,83,91,9,7,78,3,2,67,3,2,67,15,7,47,2,0,0,3,13,3,23,8,2,25
+Real Madrid - Chelsea 1:1,Europe. UEFA Champions League,2021-04-27,"AMF, RCMF3, RWF",94,85,64,75,0,0,0,0,0,0,60,56,93,6,5,83,0,0,0,2,1,50,17,5,29,0,0,0,2,6,2,33,2,0,0
+Liverpool - Real Madrid 0:0,Europe. UEFA Champions League,2021-04-14,"LCMF, RCMF",96,93,56,60,0,0,1,0,0,0.23,58,47,81,9,6,67,1,0,0,5,3,60,19,8,42,1,0,0,5,8,3,38,4,3,75
+Real Madrid - Liverpool 3:1,Europe. UEFA Champions League,2021-04-06,"RCMF, RCMF3",95,77,58,75,0,1,0,0,0,0,49,44,90,8,7,88,0,0,0,0,0,0,15,10,67,0,0,0,2,6,2,33,7,3,43
+Real Madrid - Atalanta 3:1,Europe. UEFA Champions League,2021-03-16,RCMF,95,125,100,80,0,1,1,0,0,0.05,93,89,96,3,2,67,0,0,0,3,2,67,18,7,39,0,0,0,7,5,0,0,15,4,27
+Atalanta - Real Madrid 0:1,Europe. UEFA Champions League,2021-02-24,RCMF3,96,119,99,83,0,1,3,0,0,0.06,102,93,91,5,4,80,5,2,40,1,1,100,12,4,33,1,1,100,2,10,0,0,12,8,67

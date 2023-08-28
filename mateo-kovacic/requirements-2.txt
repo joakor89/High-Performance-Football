@@ -1,0 +1,6 @@
+xgboost==1.7.6
+pip
+bokeh==3.2.1
+statsmodels==0.14.0
+pip
+nonconformist==2.1.0
